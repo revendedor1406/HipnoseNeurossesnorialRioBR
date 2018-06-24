@@ -1,0 +1,451 @@
+{
+  "settings": {
+    "name": "HipnoseNeurossensorial.Rio.BR",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "siteFonts": [],
+    "versionFirst": "4.7.7",
+    "uniqCompNum": 19,
+    "versionPublish": "4.7.7",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "AS MAIS MODERNAS TÉCNICAS DE HIPNOSE NEUROSSENSORIAL",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "37",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/xPjF0leNWAQ?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=xPjF0leNWAQ",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.4"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/photo-5.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/IOhksvDBDyY",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "AS MAIS MODERNAS TÉCNICAS DE HIPNOSE NEUROSSENSORIAL",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "Esse curso pode ser feito por qualquer pessoa independente da graduação.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Inscrição</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-5"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-720x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff8e0",
+            "overlayOpacity": "0.5"
+          },
+          "title": "<b>Facilitador deste curso: </b><br><b>Prof. Doutor João Oliveira</b>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"http://inscricao.hipnoseneurossensorial.rio.br\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Inscrição</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-3"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://go.hotmart.com/Y7157542Y\" target=\"_blank\">Inscrição</a></li>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"http://www.hipnoseneurossensorial.rio.br/\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://go.hotmart.com/B6829526N\" target=\"_blank\">Formação em Hipnose Clínica</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://go.hotmart.com/Y7157542Y\" target=\"_blank\">Neurossensorial</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://api.whatsapp.com/send?phone=5521986402130\" target=\"_blank\">Contact</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-2-299x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.hipnoseneurossensorial.rio.br",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "http://www.hipnoseneurossensorial.rio.br/",
+              "size": 0,
+              "newWindow": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HIPNOSE NEUROSSENSORIAL RIO BR</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/3wp0SYgYIgQ",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "<b>POUCAS VAGAS DEVIDO AO PERFIL DO CURSO.</b>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-2"
+        },
+        {
+          "text": "<p><span style=\"font-size: 1.25rem;\">A Hipnose Clínica é uma técnica reconhecida pela ciência moderna no tratamento de doenças físicas e psicológicas, ganhando cada vez mais reconhecimento entre os profissionais da área de saúde.</span><br></p><p>\n<span style=\"font-size: 1.25rem;\">Médicos: no Brasil, em 1999, o Conselho Federal de Medicina emitiu um parecer (nº 42/99) reconhecendo a Hipnose como “uma valiosa prática médica”, que pode ser utilizada em diagnóstico e tratamento.&nbsp;</span></p><p>\n<span style=\"font-size: 1.25rem;\">Odontólogos: a prática da hipnose para os Odontólogos está regulamentada pela Lei N º 5.081 de 24/08/66, no art. 6º, par. I-VI&nbsp;</span></p><p>\n<span style=\"font-size: 1.25rem;\">Psicólogos: em 20 de dezembro de 2000, o Conselho Federal de Psicologia reconheceu a Hipnose como um recurso terapêutico (resolução 013/00).&nbsp;</span></p><p>\n<span style=\"font-size: 1.25rem;\">Fisioterapeutas: os Fisioterapeutas, de acordo com o Conselho Federal de Fisioterapia e Terapia Ocupacional também podem atuar amparados pela RESOLUÇÃO COFFITO nº. 380, de 3 de novembro de 2010. (DOU nº. 216, Seção 1, em 11/11/2010, página 120).&nbsp;</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.7"
+          },
+          "title": "&nbsp;Introdução a Hipnose Clínica para nivelamento dos participantes.\r",
+          "caption": "<p><span style=\"font-size: 1.25rem;\">\n</span><span style=\"font-size: 1.25rem;\">Conceitos e práticas de hipnose relacionadas a fobias e abordagem apoiada em sons e frequências agregados a indução/sugestão.&nbsp;</span><br></p><p>\n<span style=\"font-size: 1.25rem;\">Emagrecimento Pela Palavra: Técnicas para seu tratamento com práticas de hipnose para emagrecimento no método RESEM baseado na pesquisa de Mestrado em Cognição e Linguagem do Prof. João Oliveira na UENF.&nbsp;</span></p><p>Hipnose nos Sonhos: Conceituação do trabalho de Sonhos em Hipnose com técnicas de incubação de sonhos para resoluções no ambiente onírico, utilizando os sonhos como meio de resolução de sintomas.\n</p><p>\n</p><p>Hipnose Neurossensorial: Conceituação e prática da hipnose Neurossensorial com utilização de luzes, áudios e frequências sonoras.</p><p>\n</p><p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-a",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/slide-3-1400x547.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-b"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "VOCÊ TAMBÉM IRÁ APRENDER A USAR APARELHOS DE BIOFEEDBACK E DE POTENCIALIZAÇÃO DO ESTADO ALTERADO DE CONSCIÊNCIA",
+          "meta": "Hipnose Neurossensorial",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-d",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "15",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/joao-oliveira-rosto-183x257.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Facilitador deste curso: \n<div>Prof. Doutor João Oliveira</div>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Doutor em Saúde Pública pela Universidad Americana – PY\n</p><p>Mestre em Cognição e Linguagem – UENF-RJ\n</p><p>Pós-Graduado em Hipnose Clínica, Hospitalar e Organizacional\n</p><p>Pós-Graduado em Psicologia Existencial Humanista\n</p><p>Pós-Graduado em Comunicação, Cultura e Linguagem\n</p><p>Pós-Graduado em Coaching Empresarial (MBA)\n</p><p>Psicólogo CRP 05/32031\n</p><p>Publicitário\n</p><p>Professor Universitário\n</p><p>Diretor de Cursos do ISEC\n</p><p>Coordenador de Pós-Graduação do Curso: Hipnose Múltiplas Abordagens ISEC/FAMESC\n</p><p>Autor de diversos Livros pela WAK Editora\n</p><p>Currículo Lattes do Prof. Dr. João Oliveira -<a href=\"https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=7F284B2C66D9B8180746E150930149F1#\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\"> clique aqui -</a>&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Clique aqui</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-h",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left",
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "11",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/beatriz-acampora-1-1400x1969.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Profa. Doutora Beatriz Acampora",
+          "text": "Doutora em Saúde Pública pela Universidad Americana – PY\n<div>Mestre em Cognição e Linguagem – UENF-RJ\n</div><div>Pós-Graduada em Hipnose Clínica, Hospitalar e Organizacional\n</div><div>Pós-Graduada em Psicologia Existencial Humanista\n</div><div>Pós-Graduada em Comunicação, Cultura e Linguagem\n</div><div>Pós-Graduada em Arteterapia em Educação e Saúde\n</div><div>Psicóloga CRP 05/32030\n</div><div>Jornalista\n</div><div>Professora Universitária\n</div><div>Diretora do ISEC\n</div><div>Autora de diversos Livros pela WAK Editora</div>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Cursos</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-i",
+          "_styles": {
+            ".lead DIV": {
+              "text-align": "right",
+              "font-size": "16px"
+            },
+            ".lead": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/OAJEncIMa0I",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "<a href=\"http://inscricao.hipnoseneurossensorial.rio.br/\" target=\"_blank\">Faça sua inscrição agora!</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-g"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Acompanhanos!",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/Neurossensorial\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/HipnoseNeurossensorialRioBR\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-google\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/100649500130817431558\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC3VtSp82aNN2FKdaii7vjzA/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/hipnoseneurossensorialriobr/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-pinterest\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-tumblr\" title=\"Tumblr\" target=\"_blank\" href=\"https://hipnoseneurossensorialriobr.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-linkedin\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/hipnose-neurossensorial-rio-br-21815a166/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-linkedin\"></i></a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-8"
+        }
+      ]
+    }
+  }
+}
