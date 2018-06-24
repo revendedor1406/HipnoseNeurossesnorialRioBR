@@ -155,7 +155,7 @@
               "newWindow": true
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HIPNOSE NEUROSSENSORIAL RIO BR</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html#msg-box5-h\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">HIPNOSE NEUROSSENSORIAL RIO BR</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_styles": {
