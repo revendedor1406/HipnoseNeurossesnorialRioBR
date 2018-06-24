@@ -42,7 +42,7 @@
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -78,7 +78,7 @@
           "title": "AS MAIS MODERNAS TÉCNICAS DE HIPNOSE NEUROSSENSORIAL",
           "meta": "By John Smith posted July 30, 2015",
           "text": "Esse curso pode ser feito por qualquer pessoa independente da graduação.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Inscrição</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"http://hns.c.hipnoseneurossensorial.rio.br/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Inscrição</a>",
           "alias": "purity/components",
           "_tags": [
             "Layout"
@@ -110,7 +110,7 @@
           },
           "title": "<b>Facilitador deste curso: </b><br><b>Prof. Doutor João Oliveira</b>",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"http://inscricao.hipnoseneurossensorial.rio.br\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Inscrição</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"http://hns.c.hipnoseneurossensorial.rio.br/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Inscrição</a>",
           "alias": "purity/components",
           "_tags": [
             "Layout"
@@ -130,7 +130,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://go.hotmart.com/Y7157542Y\" target=\"_blank\">Inscrição</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"http://hns.c.hipnoseneurossensorial.rio.br/\" target=\"_blank\">Inscrição</a></li>",
           "alias": "purity/components",
           "_tags": [
             "Layout"
@@ -204,7 +204,7 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -260,7 +260,7 @@
             "showMeta": true
           },
           "title": "VOCÊ TAMBÉM IRÁ APRENDER A USAR APARELHOS DE BIOFEEDBACK E DE POTENCIALIZAÇÃO DO ESTADO ALTERADO DE CONSCIÊNCIA",
-          "meta": "Hipnose Neurossensorial",
+          "meta": "<a href=\"http://hns.c.hipnoseneurossensorial.rio.br/\" target=\"_blank\">Hipnose Neurossensorial</a>",
           "alias": "purity/components",
           "_tags": [
             "Layout"
@@ -284,7 +284,7 @@
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -320,7 +320,7 @@
           "title": "Facilitador deste curso: \n<div>Prof. Doutor João Oliveira</div>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Doutor em Saúde Pública pela Universidad Americana – PY\n</p><p>Mestre em Cognição e Linguagem – UENF-RJ\n</p><p>Pós-Graduado em Hipnose Clínica, Hospitalar e Organizacional\n</p><p>Pós-Graduado em Psicologia Existencial Humanista\n</p><p>Pós-Graduado em Comunicação, Cultura e Linguagem\n</p><p>Pós-Graduado em Coaching Empresarial (MBA)\n</p><p>Psicólogo CRP 05/32031\n</p><p>Publicitário\n</p><p>Professor Universitário\n</p><p>Diretor de Cursos do ISEC\n</p><p>Coordenador de Pós-Graduação do Curso: Hipnose Múltiplas Abordagens ISEC/FAMESC\n</p><p>Autor de diversos Livros pela WAK Editora\n</p><p>Currículo Lattes do Prof. Dr. João Oliveira -<a href=\"https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=7F284B2C66D9B8180746E150930149F1#\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\"> clique aqui -</a>&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Clique aqui</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"http://hns.c.hipnoseneurossensorial.rio.br/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Clique aqui</a>",
           "alias": "purity/components",
           "_tags": [
             "Layout"
@@ -346,7 +346,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -362,7 +362,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/beatriz_acampora-1-1400x1969.png",
+              "src": "@PROJECT_PATH@/assets/images/beatriz-acampora-1-1400x1969.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -386,7 +386,7 @@
             "Layout"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Cursos</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"http://hns.c.hipnoseneurossensorial.rio.br/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Cursos</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-i",
           "_styles": {
@@ -415,7 +415,7 @@
               "loop": false
             }
           },
-          "text": "<a href=\"http://inscricao.hipnoseneurossensorial.rio.br/\" target=\"_blank\">Faça sua inscrição agora!</a>",
+          "text": "<a href=\"http://hns.c.hipnoseneurossensorial.rio.br/\" target=\"_blank\">Faça sua inscrição agora!</a>",
           "alias": "purity/components",
           "_tags": [
             "Layout"
@@ -428,7 +428,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#FFF8E0",
