@@ -135,7 +135,7 @@
           "_tags": [
             "Layout"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"http://www.hipnoseneurossensorial.rio.br/\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://go.hotmart.com/B6829526N\" target=\"_blank\">Formação em Hipnose Clínica</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://go.hotmart.com/Y7157542Y\" target=\"_blank\">Neurossensorial</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://api.whatsapp.com/send?phone=5521986402130\" target=\"_blank\">Contact</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"http://www.hipnoseneurossensorial.rio.br/\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"http://hipnoseclinica.c.hipnoseneurossensorial.rio.br\" target=\"_blank\">Formação em Hipnose Clínica</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"http://hns.c.hipnoseneurossensorial.rio.br\" target=\"_blank\">Neurossensorial</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://api.whatsapp.com/send?phone=5521986402130\" target=\"_blank\">Contact</a></li>",
           "logo": {
             "image": {
               "active": true,
